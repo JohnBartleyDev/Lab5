@@ -1,0 +1,6 @@
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step3/CMakeFiles/rebuild_cache.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step3/CMakeFiles/edit_cache.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step3/CMakeFiles/Tutorial.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step3/MathFunctions/CMakeFiles/rebuild_cache.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step3/MathFunctions/CMakeFiles/edit_cache.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step3/MathFunctions/CMakeFiles/MathFunctions.dir

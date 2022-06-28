@@ -1,0 +1,16 @@
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/CMakeFiles/install/strip.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/CMakeFiles/install/local.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/CMakeFiles/install.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/CMakeFiles/list_install_components.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/CMakeFiles/rebuild_cache.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/CMakeFiles/edit_cache.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/CMakeFiles/test.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/CMakeFiles/Tutorial.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/MathFunctions/CMakeFiles/install/strip.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/MathFunctions/CMakeFiles/install.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/MathFunctions/CMakeFiles/list_install_components.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/MathFunctions/CMakeFiles/rebuild_cache.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/MathFunctions/CMakeFiles/edit_cache.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/MathFunctions/CMakeFiles/test.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/MathFunctions/CMakeFiles/install/local.dir
+/mnt/d/4470/lab5/cmake/Help/guide/tutorial/Step4/MathFunctions/CMakeFiles/MathFunctions.dir

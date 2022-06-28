@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/Program.dir/program.c.o  -o Program  source/libsource.a 

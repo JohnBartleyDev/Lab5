@@ -1,0 +1,6 @@
+/mnt/d/4470/lab5/Lab-BuildSystemsExample/CMakeFiles/rebuild_cache.dir
+/mnt/d/4470/lab5/Lab-BuildSystemsExample/CMakeFiles/edit_cache.dir
+/mnt/d/4470/lab5/Lab-BuildSystemsExample/CMakeFiles/Program.dir
+/mnt/d/4470/lab5/Lab-BuildSystemsExample/source/CMakeFiles/rebuild_cache.dir
+/mnt/d/4470/lab5/Lab-BuildSystemsExample/source/CMakeFiles/edit_cache.dir
+/mnt/d/4470/lab5/Lab-BuildSystemsExample/source/CMakeFiles/source.dir
